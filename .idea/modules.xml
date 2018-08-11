@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HotKeywords/HotKeywords.iml" filepath="$PROJECT_DIR$/HotKeywords/HotKeywords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rec2Text/Rec2Text.iml" filepath="$PROJECT_DIR$/Rec2Text/Rec2Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordseparator.iml" filepath="$PROJECT_DIR$/wordseparator.iml" />
+    </modules>
+  </component>
+</project>
